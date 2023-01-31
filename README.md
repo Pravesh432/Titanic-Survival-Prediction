@@ -12,4 +12,23 @@ Created a model using classification algorithm to predict survival or not
 ![fare](https://user-images.githubusercontent.com/105968767/215540136-0c9da7c4-9156-49d2-91ca-59e2cfee67d8.png)
 
 ## for LogisticRegression model score:
+![log](https://user-images.githubusercontent.com/105968767/215751804-5528818d-809d-42cf-8387-dc449c73d22e.png)
+
+## for DecisionTree Entropy score:
+![dt](https://user-images.githubusercontent.com/105968767/215752244-cd92a2d6-5f4a-416d-bafe-9bc003e65c3c.png)
+
+## for randomForestTree Score:
+![rf](https://user-images.githubusercontent.com/105968767/215752469-8e5119ba-aae5-4882-9cee-e4aec4cb6dfe.png)
+
+## for SupportVector Machine score:
+![sv](https://user-images.githubusercontent.com/105968767/215752713-723a88a9-eba8-4f09-ae34-da9326f5ad86.png)
+
+## For KNN score:
+![knn](https://user-images.githubusercontent.com/105968767/215753007-02875ad2-aae5-41dc-9393-44ec94e28d0f.png)
+
+# Conclusion:
+## Thus we can conclude that our model is performing well. You can train the model using a bigger dataset to get better results.
+## After Testing WE get the Predicted Values Who survived or not in Titanic.
+
+
 
